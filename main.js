@@ -7,3 +7,7 @@ function login() {
   // refactorización
   // bug arreglado
 }
+
+function camera() {
+  // Cámara terminada
+}
