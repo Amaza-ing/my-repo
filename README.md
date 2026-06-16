@@ -1,5 +1,7 @@
 # Título de mi proyecto
 
+Cambios realizados por otro compañero
+
 hola, esto es un fichero .md
 
 ## Subtítulo
