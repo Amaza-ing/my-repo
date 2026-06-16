@@ -1,0 +1,13 @@
+# Título de mi proyecto
+
+hola, esto es un fichero .md
+
+## Subtítulo
+
+algo de texto
+
+> esto es una nota
+
+```javascript
+console.log("Ejemplo de js");
+```
