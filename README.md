@@ -13,3 +13,6 @@ algo de texto
 ```javascript
 console.log("Ejemplo de js");
 ```
+
+Cámara terminada
+Login terminado
