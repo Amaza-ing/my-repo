@@ -14,6 +14,8 @@ algo de texto
 console.log("Ejemplo de js");
 ```
 
-documentación de nuestro compañero
-documentación de nuestro compañero
-documentación de nuestro compañero
+Nueva documentación hecha por nosotros
+más documentación
+más documentación
+más documentación
+más documentación
