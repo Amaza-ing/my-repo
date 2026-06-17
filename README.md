@@ -14,7 +14,6 @@ algo de texto
 console.log("Ejemplo de js");
 ```
 
-Cámara terminada y refactorizada
-Login terminado
-
-cambios de mi compañero
+documentación de nuestro compañero
+documentación de nuestro compañero
+documentación de nuestro compañero
