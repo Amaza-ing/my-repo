@@ -5,7 +5,7 @@ console.log("Bienvenidos");
 function login() {
   // login creado
   // refactorización
-  // bug arreglado por nosotros
+  // bug arreglado por nuestro compañero
 }
 
 function camera() {
