@@ -9,7 +9,7 @@ function login() {
 }
 
 function camera() {
-  // Cámara terminada
+  // refactorización de nuestro compañero
 }
 
 function gps() {
