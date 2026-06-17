@@ -17,4 +17,4 @@ console.log("Ejemplo de js");
 Nueva documentación hecha por nosotros
 más documentación
 
-otros cambios
+Documentación sobre el logout

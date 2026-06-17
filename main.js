@@ -2,6 +2,10 @@
 
 console.log("Bienvenidos");
 
+function aux() {
+  // función auxiliar
+}
+
 function login() {
   // login creado
   // refactorización
