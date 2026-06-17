@@ -11,3 +11,7 @@ function login() {
 function camera() {
   // Cámara terminada
 }
+
+function gps() {
+  // gps completo
+}
