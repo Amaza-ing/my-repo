@@ -16,3 +16,7 @@ function gps() {
   // refactorización del gps de nuestro compañero
   // bugfix del gps
 }
+
+function logout() {
+  // logout creado
+}
