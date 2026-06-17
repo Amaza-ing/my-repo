@@ -13,6 +13,6 @@ function camera() {
 }
 
 function gps() {
-  // gps completo
+  // gps completo y refactorizado
   // bugfix del gps
 }
