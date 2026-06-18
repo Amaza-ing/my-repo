@@ -6,7 +6,6 @@ function aux() {
 
 function login() {
   // login creado
-  // refactorización
 }
 
 function camera() {
