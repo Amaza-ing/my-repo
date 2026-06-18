@@ -1,5 +1,3 @@
-// Comentario
-
 console.log("Bienvenidos");
 
 function aux() {
