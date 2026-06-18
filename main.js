@@ -19,3 +19,7 @@ function gps() {
 function logout() {
   // logout creado
 }
+
+function battery() {
+  // funcionalidad para gestionar la batería
+}
