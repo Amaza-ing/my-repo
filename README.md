@@ -1,5 +1,7 @@
 # HabitFlow
 
+otros cambios
+
 HabitFlow es una página web sencilla de prueba para presentar una aplicación ficticia de seguimiento de hábitos diarios. El proyecto está pensado como ejemplo básico de documentación para una web estática formada por tres archivos principales: `index.html`, `main.js` y `styles.css`.
 
 ## Descripción del proyecto
