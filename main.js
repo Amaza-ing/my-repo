@@ -23,3 +23,7 @@ function logout() {
 function battery() {
   // funcionalidad para gestionar la batería
 }
+
+function volume() {
+  // volumen terminado
+}
