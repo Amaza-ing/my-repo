@@ -16,6 +16,7 @@ function gps() {
   // gps completo
 }
 
+// comentario
 function logout() {
   // logout creado
 }
