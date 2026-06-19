@@ -1,6 +1,3 @@
-
-
-
 function aux() {
   // función auxiliar
 }
