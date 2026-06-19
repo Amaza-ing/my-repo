@@ -1,3 +1,5 @@
+// comentario
+
 function aux() {
   // función auxiliar
 }
