@@ -1,5 +1,3 @@
-console.log("Bienvenidos");
-
 function aux() {
   // función auxiliar
 }
